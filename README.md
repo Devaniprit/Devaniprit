@@ -19,6 +19,10 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <p align="left">🚀 Tech Enthusiast | Diploma Engineering Student  <br>🎮 Building Creative Projects & Exploring New Technologies  <br>🌱 Always Learning Something New</p>
 
 ###
