@@ -1,9 +1,28 @@
-# 💫 About Me:
-🚀 Tech Enthusiast | Diploma Engineering Student<br>🎮 Building Creative Projects & Exploring New Technologies<br>🌱 Always Learning Something New<br>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h1 align="center">Prit devani</h1>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Devaniprit.Devaniprit&"  />
+</div>
+
+###
+
+<p align="left">🚀 Tech Enthusiast | Diploma Engineering Student  <br>🎮 Building Creative Projects & Exploring New Technologies  <br>🌱 Always Learning Something New</p>
+
+###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Devaniprit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Devaniprit&theme=dark&hide_border=false)<br/>
